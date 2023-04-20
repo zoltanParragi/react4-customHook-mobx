@@ -1,0 +1,16 @@
+body {
+  padding: 20px;
+}
+
+#colors>div>div {
+  width: 100px;
+  height: 100px;
+}
+
+h2 {
+  color: blue;
+}
+
+h3 {
+  color: green;
+}
